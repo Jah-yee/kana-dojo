@@ -317,7 +317,6 @@
     "mainColor": "oklch(65.0% 0.195 40.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.145 85.0 / 1)"
   },
-
   {
     "id": "shinkansen-speed",
     "backgroundColor": "oklch(22.0% 0.035 240.0 / 1)",
@@ -361,15 +360,21 @@
     "secondaryColor": "oklch(72.0% 0.070 80.0 / 1)"
   },
   {
-  "id": "sushi-counter",
-  "backgroundColor": "oklch(23.0% 0.028 70.0 / 1)",
-  "mainColor": "oklch(70.0% 0.145 20.0 / 1)",
-  "secondaryColor": "oklch(68.0% 0.095 75.0 / 1)"
-},
-   {
+    "id": "sushi-counter",
+    "backgroundColor": "oklch(23.0% 0.028 70.0 / 1)",
+    "mainColor": "oklch(70.0% 0.145 20.0 / 1)",
+    "secondaryColor": "oklch(68.0% 0.095 75.0 / 1)"
+  },
+  {
     "id": "umbrella-rain",
     "backgroundColor": "oklch(22.0% 0.018 250.0 / 1)",
     "mainColor": "oklch(70.0% 0.175 225.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.145 350.0 / 1)"
+  },
+  {
+    "id": "inkstone",
+    "backgroundColor": "oklch(15.0% 0.018 260.0 / 1)",
+    "mainColor": "oklch(78.0% 0.040 230.0 / 1)",
+    "secondaryColor": "oklch(50.0% 0.030 255.0 / 1)"
   }
 ]
